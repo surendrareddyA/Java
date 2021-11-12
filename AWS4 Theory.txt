@@ -1,0 +1,20 @@
+can we modify EBS volumes when it is in use.
+yes we can increse the capacity (size)And we can change volume type but we can decrese the capacity (size)
+
+
+Block storages can be used/shared with multiple servers at a given point of time 
+
+EBS Shnapshots
+
+1)To Restore Data in case Any failure in EBS.
+2)To Migrate Servers (Data) From one AWS Region/A.Z to Another AWS Region/A.Z
+
+
+Network File System 
+Shnapshot
+
+Where AWS will store/maintain EBS shnpshots?
+Ans)AWS will use  S3 to maintain snapshts 
+
+
+ 
